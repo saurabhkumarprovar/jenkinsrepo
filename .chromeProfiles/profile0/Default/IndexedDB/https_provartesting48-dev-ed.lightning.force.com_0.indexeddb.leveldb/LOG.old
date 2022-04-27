@@ -1,0 +1,6 @@
+2022/04/26-17:05:02.039 3d90 Creating DB C:\Users\saurabh.kumar\Provar\jenkinswork\.chromeProfiles\profile0\Default\IndexedDB\https_provartesting48-dev-ed.lightning.force.com_0.indexeddb.leveldb since it was missing.
+2022/04/26-17:05:02.045 3d90 Reusing MANIFEST C:\Users\saurabh.kumar\Provar\jenkinswork\.chromeProfiles\profile0\Default\IndexedDB\https_provartesting48-dev-ed.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/26-17:05:03.590 4458 Level-0 table #5: started
+2022/04/26-17:05:03.593 4458 Level-0 table #5: 12095 bytes OK
+2022/04/26-17:05:03.597 4458 Delete type=0 #3
+2022/04/26-17:05:03.597 4458 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

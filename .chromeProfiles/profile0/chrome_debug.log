@@ -1,0 +1,25 @@
+[9144:17584:0426/170640.565:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[9144:17584:0426/170640.569:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[9144:17584:0426/170640.603:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[9144:17584:0426/170641.162:INFO:CONSOLE(1709)] "INIT    === Start of processExistingTabs.  refresh: false", source: chrome-extension://hellccbpmadbldafbabpllckpaodfopj/BS.js (1709)
+[9144:17584:0426/170641.163:INFO:CONSOLE(1709)] "INIT    === Start of processExistingTabs.  refresh: true", source: chrome-extension://hellccbpmadbldafbabpllckpaodfopj/BS.js (1709)
+[9144:17584:0426/170641.163:INFO:CONSOLE(1711)] "INIT    === chrome.tabs.query result.  tabs.length: 1", source: chrome-extension://hellccbpmadbldafbabpllckpaodfopj/BS.js (1711)
+[9144:17584:0426/170641.163:INFO:CONSOLE(1717)] "INIT    === Got pre-exiting tab.  i:  0, tabId: 2, url: file:///C:/Users/SAURAB~1.KUM/AppData/Local/Temp/ProvarChromeIde7797643059292356954/provarPort=58846&idePort=59033&sessionId=3&subSessionId=2&connectionName=Salesforce_conn:Salesforce_conn&devMode=false&showEnhancedXpathEditor=true&dmwAttempt=0&dmwCloseTimeInSec=2000&useTargetXpaths=false.html, existingTab: undefined", source: chrome-extension://hellccbpmadbldafbabpllckpaodfopj/BS.js (1717)
+[9144:17584:0426/170641.163:INFO:CONSOLE(1725)] "INIT    === Created connectionDetails for new tab", source: chrome-extension://hellccbpmadbldafbabpllckpaodfopj/BS.js (1725)
+[9144:17584:0426/170641.163:INFO:CONSOLE(1729)] "INIT    === Set focused tab.  focusedTabId: 2", source: chrome-extension://hellccbpmadbldafbabpllckpaodfopj/BS.js (1729)
+[9144:17584:0426/170641.163:INFO:CONSOLE(1711)] "INIT    === chrome.tabs.query result.  tabs.length: 1", source: chrome-extension://hellccbpmadbldafbabpllckpaodfopj/BS.js (1711)
+[9144:17584:0426/170641.163:INFO:CONSOLE(1717)] "INIT    === Got pre-exiting tab.  i:  0, tabId: 2, url: file:///C:/Users/SAURAB~1.KUM/AppData/Local/Temp/ProvarChromeIde7797643059292356954/provarPort=58846&idePort=59033&sessionId=3&subSessionId=2&connectionName=Salesforce_conn:Salesforce_conn&devMode=false&showEnhancedXpathEditor=true&dmwAttempt=0&dmwCloseTimeInSec=2000&useTargetXpaths=false.html, existingTab: [object Object]", source: chrome-extension://hellccbpmadbldafbabpllckpaodfopj/BS.js (1717)
+[9144:17584:0426/170641.176:INFO:CONSOLE(6772)] "crbug/1173575, non-JS module files deprecated.", source: chrome-error://chromewebdata/ (6772)
+[9144:17584:0426/170641.237:INFO:CONSOLE(1214)] "Sending request to Provar to get strategies", source: chrome-extension://hellccbpmadbldafbabpllckpaodfopj/BS.js (1214)
+[9144:17584:0426/170641.250:INFO:CONSOLE(2311)] "dispatchMessage - resolving response:  [object Object]", source: chrome-extension://hellccbpmadbldafbabpllckpaodfopj/BS.js (2311)
+[9144:17584:0426/170643.399:ERROR:device_event_log_impl.cc(214)] [17:06:43.399] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[9144:17584:0426/170643.399:ERROR:device_event_log_impl.cc(214)] [17:06:43.400] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[9144:17584:0426/170646.167:INFO:CONSOLE(1709)] "INIT    === Start of processExistingTabs.  refresh: true", source: chrome-extension://hellccbpmadbldafbabpllckpaodfopj/BS.js (1709)
+[9144:17584:0426/170646.168:INFO:CONSOLE(1711)] "INIT    === chrome.tabs.query result.  tabs.length: 1", source: chrome-extension://hellccbpmadbldafbabpllckpaodfopj/BS.js (1711)
+[9144:17584:0426/170646.168:INFO:CONSOLE(1717)] "INIT    === Got pre-exiting tab.  i:  0, tabId: 2, url: about:blank, existingTab: [object Object]", source: chrome-extension://hellccbpmadbldafbabpllckpaodfopj/BS.js (1717)
+[9144:17584:0426/170650.676:INFO:CONSOLE(4)] "empApi setting initialized true for : undefined", source: https://provartesting48-dev-ed.lightning.force.com/components/force/empApi.js (4)
+[9144:17584:0426/170653.156:INFO:CONSOLE(38)] "[object Object]", source: https://provartesting48-dev-ed.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (38)
+[9144:17584:0426/170656.106:INFO:CONSOLE(4)] "empApi setting initialized true for : undefined", source: https://provartesting48-dev-ed.lightning.force.com/components/force/empApi.js (4)
+[9144:17584:0426/170656.977:INFO:CONSOLE(38)] "[object Object]", source: https://provartesting48-dev-ed.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (38)
+[9144:17584:0426/170706.536:INFO:CONSOLE(38)] "[object Object]", source: https://provartesting48-dev-ed.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (38)
+[9144:17584:0426/170739.745:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

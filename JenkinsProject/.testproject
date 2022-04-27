@@ -8,6 +8,18 @@
   <sourcePath>src</sourcePath>
   <secureStoragePath>.secrets</secureStoragePath>
   <browserDebugPort>0</browserDebugPort>
+  <connectionClasses>
+    <connectionClass name="sf">
+      <connections>
+        <connection id="1d1247c3-7d3f-413f-81a1-4e8822ca1a42" name="Salesforce_conn">
+          <summary/>
+          <connectionUrls>
+            <connectionUrl secureStorageNodeId="1354f368-79b6-4d18-878b-e7626672d670" url="sf:user=saurabh.kumar@provartesting.com;password={password};securityToken={securityToken};environment=PROD_DEV;lightningMode=true"/>
+          </connectionUrls>
+        </connection>
+      </connections>
+    </connectionClass>
+  </connectionClasses>
   <browserConfigurations>
     <browserConfiguration adjustBrowserWidthForChromeIde="true" browserHeight="0" browserWidth="0" name="Full Screen">
       <summary>Full screen with Test Builder adjustment</summary>
