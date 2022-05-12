@@ -8,6 +8,22 @@
   <sourcePath>src</sourcePath>
   <secureStoragePath>.secrets</secureStoragePath>
   <browserDebugPort>0</browserDebugPort>
+  <variables>
+    <testVariable name="_chromeOptions">
+      <valueType class="textType">
+        <constraints>
+          <valueConstraint name="minLength">0</valueConstraint>
+          <valueConstraint name="maxLength">9999</valueConstraint>
+        </constraints>
+      </valueType>
+      <summary/>
+      <values>
+        <testVariableValue>
+          <value class="value" valueClass="string">--disable-dev-shm-usage,--no-sandbox,--disable-gpu,--force-device-scale-factor=1</value>
+        </testVariableValue>
+      </values>
+    </testVariable>
+  </variables>
   <connectionClasses>
     <connectionClass name="sf">
       <connections>
